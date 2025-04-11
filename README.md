@@ -84,8 +84,8 @@ Hello! I'm Théo Laubezout, a full stack developer with a strong focus on data, 
 ## 📊 GitHub Stats
 
 <div style="display:flex;">
-  <img src="https://github-readme-stats-five-dun-41.vercel.app/api/top-langs/?username=laubezout-theo&layout=compact">
-  <img src="https://github-readme-stats-five-dun-41.vercel.app/api?username=laubezout-theo&show_icons=true&hide_border=false&line_height=20&title_color=2d5ded&show_owner=true&hide_rank=true&number_format=long&hide=stars">
+  <img src="https://github-readme-stats-five-dun-41.vercel.app/api/top-langs/?username=laubezout-theo&include_orgs=true&layout=compact">
+  <img src="https://github-readme-stats-five-dun-41.vercel.app/api?username=laubezout-theo&include_orgs=true&show_icons=true&hide_border=false&line_height=20&title_color=2d5ded&show_owner=true&hide_rank=true&number_format=long&hide=stars">
 </div>
 
 ## 📡 Connect with Me
